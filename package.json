@@ -1,0 +1,8 @@
+{
+  "name": "event-sourcing-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:TymoteuszGach/event-sourcing-example.git",
+  "license": "MIT",
+  "private": false
+}
